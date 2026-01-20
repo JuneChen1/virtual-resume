@@ -30,3 +30,66 @@ nav {
 .nav-link {
   color: #666666;
 }
+
+main {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+h2 {
+  font-size: 32px;
+  margin: 24px 0 8px;
+}
+
+h3 {
+  font-size: 21px;
+  margin: 0 0 8px;
+  font-weight: 500;
+}
+
+section {
+  margin-bottom: 48px;
+}
+
+p {
+  color: #666666;
+}
+
+.avatar {
+  text-align: center;
+}
+
+.avatar-img {
+  border-radius: 50%;
+}
+
+.name {
+  text-align: center;
+  font-size: 32px;
+  margin: 20px 0;
+}
+
+.social-media {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.social-media-link {
+  color: #999;
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+.social-media-link:hover {
+  color: rgb(14, 14, 118);
+}
+
+.title {
+  margin-bottom: 20px;
+  text-align: center;
+
+  font-size: 14px;
+  letter-spacing: 2px;
+  color: #d0641c;
+}
